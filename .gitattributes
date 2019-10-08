@@ -1,0 +1,5 @@
+Exports/Public/izta_1-20000_landscape-120x90.pdf filter=lfs diff=lfs merge=lfs -text
+*contour.shp filter=lfs diff=lfs merge=lfs -text
+maps/Chiricahua/OSM/highway.dbf filter=lfs diff=lfs merge=lfs -text
+maps/Santa[[:space:]]Catalina/forest.tif filter=lfs diff=lfs merge=lfs -text
+maps/valle[[:space:]]de[[:space:]]guadalupe/INEGI/curva_nivel50_l.shp filter=lfs diff=lfs merge=lfs -text

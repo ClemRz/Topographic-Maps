@@ -1,0 +1,4 @@
+*.DS_Store
+*.qgs~
+maps/Desierto del Altar/DEM/ASTGTM2_N31-31W114-115_slope.tif
+maps/Desierto del Altar/DEM/ASTGTM2_N31-31W114-115_curves/contour.shp

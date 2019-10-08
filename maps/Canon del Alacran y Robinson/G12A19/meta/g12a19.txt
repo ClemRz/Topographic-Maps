@@ -1,0 +1,563 @@
+SECCIÓN 1. Identificación del conjunto de datos espaciales o producto:
+
+1.1 Título del conjunto de datos espaciales o producto: Conjunto de datos vectoriales de información topográfica G12A19 (San Carlos ) escala 1:50 000 serie III.
+
+1.2 Propósito: Los Conjuntos de datos vectoriales de información topográfica escala 1:50 000 serie III, son la base para generar cartografía temática y/o derivar cartografía topográfica a escalas menores.
+
+1.3 Descripción del conjunto de datos espaciales o producto: INEGI. Información Topográfica a escala 1:50,000 y sus actualizaciones. 2013-2018. SNIEG. Información de Interés Nacional.
+
+Contienen información sobre los diversos datos espaciales presentes en los conjuntos de datos, como curvas de nivel, hidrografía, vías de comunicación, localidades, entre otros. Estos rasgos son representados digitalmente por un componente geométrico (puntos, líneas o áreas) y componentes descriptivos (los atributos del dato). Los topónimos o nombres geográficos, se incluyen como atributos propios de cada uno de los datos que conforman cada conjunto de datos y que por su naturaleza los requieren.
+
+
+1.4 Idioma del conjunto de datos espaciales o producto: ES - Español.
+
+1.5 Categoría del tema del conjunto de datos espaciales o producto: 
+
+     1.5.1 Tema principal del conjunto de datos espaciales o producto:   5. Medio ambiente: Recursos medio ambientales, protección y conservación. 
+
+     1.5.1 Tema principal del conjunto de datos espaciales o producto: 11. Localización: Información posicional y servicios.  
+
+     1.5.2 Grupo de datos del conjunto de datos espaciales o producto: 4. Grupo de datos topográficos: Subdivisión de la Infraestructura de Datos Espaciales de México que contiene elementos que caracterizan parte o toda la superficie  terrestre, constituidos por datos referidos a los componentes físicos del paisaje y de los correspondientes a objetos de infraestructura humana. Particularizan un terreno en su configuración superficial, permitiendo la identificación de la disposición y forma de sus partes y lo distinguen de otros semejantes.
+
+1.6 Palabra clave: Acueducto
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Banco de material
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Calle
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Camino
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Carretera
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Corriente de agua
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Corriente que desaparece
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Cuerpo de agua
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Curva de nivel
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Edificación
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Instalación de comunicación
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Instalación diversa
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Instalación portuaria
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Línea de comunicación
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Línea de transmisión
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Localidad
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Pista de aviación
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Referencia geográfica
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Roca
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Ruta de embarcación
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Subestación eléctrica
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Tanque de agua
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Terreno sujeto a inundación
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.6 Palabra clave: Zona arenosa
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.8 Nombre del tesauro: Ninguno
+
+1.9 Edición: Tercera.
+
+1.10 Forma de presentación de los datos espaciales:   5. Mapa digital: Mapa representado en formato raster o vector.
+
+1.11 Enlace en línea:
+
+     1.11.1 URL del recurso: http://www.inegi.org.mx/
+
+     1.11.2 Descripción del acceso al recurso:  
+
+1.12 Frecuencia de mantenimiento y actualización:   11. Los datos se actualizan cada 6 años.
+
+1.13 Conjunto de caracteres:   6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.
+
+1.14 Nombre del archivo gráfico: Conj_Dat_Vect_Top_G12A19_Esc_50k
+
+1.15 Uso específico: El conjunto de datos es aplicable para la planeación, estudios ambientales, evaluación de infraestructura, evaluación de cambios, prevención de desastres, etc. Al proporcionarse en formato digital, los Datos Geográficos pueden ser complementados con otro tipo de información espacial para realizar diversos tipos de análisis y modelaje en Sistemas de Información Geográfica.
+
+
+SECCIÓN 2. Fechas relacionadas con el conjunto de datos espaciales o producto:
+
+2.1 Fechas y eventos:
+
+     2.1.1 Fecha de referencia del conjunto de datos espaciales o producto: 2014-03-21
+
+     2.1.2 Tipo de fecha: 2. Publicación: Indicador de la fecha que especifica cuando el recurso fue publicado.
+
+2.2 Fechas de los insumos tomados para la elaboración del producto o conjunto de datos espaciales:
+
+     2.2.1 Fecha de creación de los insumos: 2008-01-01
+
+     2.2.2 Fecha de inicio de verificación de campo: 2008-01-01
+
+     2.2.3 Fecha final de verificación de campo: 2011-12-31
+
+     2.2.4 Nombre del insumo: Imagen SPOT
+
+     2.2.1 Fecha de creación de los insumos: 2011-01-01
+
+     2.2.2 Fecha de inicio de verificación de campo: 2011-01-01
+
+     2.2.3 Fecha final de verificación de campo: 2011-01-01
+
+     2.2.4 Nombre del insumo: Localidades Urbanas y Rurales del Censo de Población y Vivienda 2010
+
+     2.2.1 Fecha de creación de los insumos: 2011-12-01
+
+     2.2.2 Fecha de inicio de verificación de campo: 2011-12-01
+
+     2.2.3 Fecha final de verificación de campo: 2011-12-01
+
+     2.2.4 Nombre del insumo: Conjunto de datos vectoriales de carreteras y vialidades 1.0
+
+SECCIÓN 3. Unidad del estado responsable del conjunto de datos espaciales o producto:
+
+3.1 Nombre de la persona de contacto: Lic. José de Jesús Esquivel de la Rosa.
+
+3.2 Nombre de la organización: Instituto Nacional de Estadística y Geografía - INEGI.
+
+3.3 Puesto del contacto: Subdirector de Comercialización.
+
+3.4 Teléfono: (449)9105300 Ext. 5301. Lada 01 800 111 46 34 (sin costo).
+
+3.5 Fax: 
+
+3.6 Dirección: Av. Héroe de Nacozari Sur Núm. 2301. Fracc. Jardines del Parque.
+
+3.7 Ciudad: Aguascalientes.
+
+3.8 Área administrativa: Aguascalientes.
+
+3.9 Código postal: 20276.
+
+3.10 País: México.
+
+3.11 Dirección de correo electrónico del contacto: atencion.usuarios@inegi.org.mx
+
+3.12 Enlace en línea (dirección de Internet de referencia): http://www.inegi.org.mx/
+
+3.13 Rol:   5. Distribuidor: Parte que distribuye el recurso.
+
+
+SECCIÓN 4. Localización geográfica del conjunto de datos espaciales o producto:
+
+4.1 Localización geográfica del conjunto de datos espaciales o producto:
+
+     4.1.1 Coordenada límite al oeste: -111.3333
+
+     4.1.2 Coordenada límite al este: -111.0000
+
+     4.1.3 Coordenada límite al sur: 27.750
+
+     4.1.4 Coordenada límite al norte: 28.000
+
+4.2 Tipo de representación espacial: 1. Vector: Los datos vectoriales se utilizan para representar datos espaciales.
+
+SECCIÓN 5. Sistema de referencia:
+
+5.1 Sistema de Referencia Horizontal:
+
+     5.1.1 Coordenadas Geográficas:
+
+          5.1.1.1 Resolución de latitud:
+
+          5.1.1.2 Resolución de longitud:
+
+          5.1.1.3 Unidades de coordenadas geográficas:
+
+     5.1.2 Coordenadas Planas:
+
+          5.1.2.1 Proyección Cartográfica:
+
+               5.1.2.1.1 Cónica Conforme de Lambert:
+
+                    5.1.2.1.1.1 Paralelo estándar:
+
+                    5.1.2.1.1.2 Longitud del meridiano central:
+
+                    5.1.2.1.1.3 Latitud del origen de proyección:
+
+                    5.1.2.1.1.4 Falso este:
+
+                    5.1.2.1.1.5 Falso norte:
+
+               5.1.2.1.2 Transversa de Mercator:
+
+                    5.1.2.1.2.1 Factor de escala en el meridiano central:
+
+                    5.1.2.1.2.2 Longitud del meridiano central:
+
+                    5.1.2.1.2.3 Latitud del origen de proyección:
+
+                    5.1.2.1.2.4 Falso este:
+
+                    5.1.2.1.2.5 Falso norte:
+
+               5.1.2.1.3 Mercator:
+
+                    5.1.2.1.3.1 Paralelo estándar:
+
+                    5.1.2.1.3.2 Factor de escala en el ecuador:
+
+                    5.1.2.1.3.3 Longitud del meridiano central:
+
+                    5.1.2.1.3.4 Falso este:
+
+                    5.1.2.1.3.5 Falso norte:
+
+               5.1.2.1.4 Transversa Modificada Ejidal:
+
+                    5.1.2.1.4.1 Factor de escala en el meridiano central:
+
+                    5.1.2.1.4.2 Longitud del meridiano central:
+
+                    5.1.2.1.4.3 Latitud del origen de proyección:
+
+                    5.1.2.1.4.4 Falso este:
+
+                    5.1.2.1.4.5 Falso norte:
+
+               5.1.2.1.5 Definición de otra proyección:
+
+          5.1.2.2 Sistema de Coordenadas de Cuadrícula:
+
+               5.1.2.2.1 Universal Transversa de Mercator:
+
+                    5.1.2.2.1.1 Número de zona UTM: 12
+
+                    5.1.2.2.1.2 Factor de escala en el meridiano central: 0.9996
+
+                    5.1.2.2.1.3 Longitud del meridiano central: -111.000000
+
+                    5.1.2.2.1.4 Latitud del origen de proyección: 0.0
+
+                    5.1.2.2.1.5 Falso este: 500000.0
+
+                    5.1.2.2.1.6 Falso norte: 0.0
+
+          5.1.2.3 Plana Local:
+
+               5.1.2.3.1 Descripción de la Plana Local:
+
+               5.1.2.3.2 Información de Georreferencia de la Plana Local:
+
+          5.1.2.4 Información de coordenadas planas:
+
+               5.1.2.4.1 Método codificado de coordenada plana: Par coordenado.
+
+               5.1.2.4.2 Representación de coordenadas:
+
+                    5.1.2.4.2.1 Resolución de abscisa: 1.0
+
+                    5.1.2.4.2.2 Resolución de ordenada: 1.0
+
+               5.1.2.4.3 Representación de distancia y rumbo:
+
+                    5.1.2.4.3.1 Resolución de distancia:
+
+                    5.1.2.4.3.2 Resolución de rumbo:
+
+                    5.1.2.4.3.3 Unidades de rumbo:
+
+                    5.1.2.4.3.4 Dirección del rumbo de referencia:
+
+                    5.1.2.4.3.5 Meridiano del rumbo de referencia:
+
+               5.1.2.4.4 Unidades de distancia plana: Metros.
+
+     5.1.3 Coordenadas Locales:
+
+          5.1.3.1 Descripción Local:
+
+          5.1.3.2 Información de Georreferenciación Local:
+
+     5.1.4 Modelo geodésico:
+
+5.1.4.1 Nombre del datum horizontal: ITRF08 época 2010.0.
+
+          5.1.4.2 Nombre del elipsoide: Sistema Geodésico de Referencia de 1980 (GRS80).
+
+          5.1.4.3 Semieje mayor: 6378137.0
+
+          5.1.4.4 Factor de denominador de achatamiento: 298.2572221
+
+5.2 Sistema de Referencia Vertical:
+
+     5.2.1 Definición del sistema de altitud:
+
+          5.2.1.1 Nombre del datum de altitud: 
+
+          5.2.1.2 Resolución de altitud: 
+
+          5.2.1.3 Unidades de distancia de altitud: 
+
+          5.2.1.4 Método codificado de altitud:  
+
+     5.2.2 Definición del sistema de profundidad:
+
+          5.2.2.1 Nombre del datum de profundidad: 
+
+          5.2.2.2 Resolución de profundidad: 
+
+          5.2.2.3 Unidades de distancia de profundidad: 
+
+          5.2.2.4 Método codificado de profundidad:  
+
+
+SECCIÓN 6. Calidad de la información:
+
+6.1 Alcance o ámbito:
+
+     6.1.1 Nivel:   1. Atributo: Información aplicada al valor de atributo.
+
+6.2 Reporte:
+
+     6.2.1 Completitud:
+
+          6.2.1.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.1.1.1 Nombre de la prueba:
+
+               6.2.1.1.2 Descripción de la prueba:
+
+               6.2.1.1.3 Resultado:
+
+                    6.2.1.1.3.1 Resultado cuantitativo:
+
+                         6.2.1.1.3.1.1 Unidad de valor:
+
+                         6.2.1.1.3.1.2 Valor:
+
+     6.2.2 Consistencia lógica:
+
+          6.2.2.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.2.1.1 Nombre de la prueba:
+
+               6.2.2.1.2 Descripción de la prueba:
+
+               6.2.2.1.3 Resultado:
+
+                    6.2.2.1.3.1 Resultado cuantitativo:
+
+                         6.2.2.1.3.1.1 Unidad de valor:
+
+                         6.2.2.1.3.1.2 Valor:
+
+     6.2.3 Exactitud posicional:
+
+          6.2.3.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.3.1.1 Nombre de la prueba:
+
+               6.2.3.1.2 Descripción de la prueba:
+
+               6.2.3.1.3 Resultado:
+
+                    6.2.3.1.3.1 Resultado cuantitativo:
+
+                         6.2.3.1.3.1.1 Unidad de valor:
+
+                         6.2.3.1.3.1.2 Valor:
+
+     6.2.4 Exactitud temporal:
+
+          6.2.4.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.4.1.1 Nombre de la prueba:
+
+               6.2.4.1.2 Descripción de la prueba:
+
+               6.2.4.1.3 Resultado:
+
+                    6.2.4.1.3.1 Resultado cuantitativo:
+
+                         6.2.4.1.3.1.1 Unidad de valor:
+
+                         6.2.4.1.3.1.2 Valor:
+
+     6.2.5 Exactitud temática:
+
+          6.2.5.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.5.1.1 Nombre de la prueba:
+
+               6.2.5.1.2 Descripción de la prueba:
+
+               6.2.5.1.3 Resultado:
+
+                    6.2.5.1.3.1 Resultado cuantitativo:
+
+                         6.2.5.1.3.1.1 Unidad de valor:
+
+                         6.2.5.1.3.1.2 Valor:
+
+6.3 Linaje:
+
+     6.3.1 Enunciado: Se realiza una inspección o revisión visual comparando el archivo vectorial contra la información fuente para detectar rasgos faltantes y/o mal codificados. Todos los segmentos de área que cierran las áreas en el límite teórico del Conjunto de Datos presentan un valor de representación geométrica definido. La clasificación, identificación, dimensiones y relaciones geométricas de los rasgos capturados se definen en el Diccionario de Datos Topográficos Escala 1:50 000.
+
+     6.3.2 Pasos del proceso:
+
+          6.3.2.1 Descripción: 
+1. Se analizan visualmente las ortofotos y se extrae la información que deberá contener el archivo vectorial, acorde a los lineamientos
+establecidos en el Diccionario de Datos Topográficos y a las Normas y Especificaciones de Actualización. La información actualizada considera Localidades, Vías de Comunicación e Hidrografía y todos aquellos elementos que se vean afectados por estos.
+2. El método de actualización digital utilizado (Extracción) por sobreposición de archivos raster/vector.
+3. Se verifica que cada uno de los datos contenidos en el archivo vectorial en proceso de actualización, tengan asignados los códigos específicos, según la información de los conjuntos de datos vectoriales Serie III.
+4. Se estructura la información actualizada (mediante la aplicación
+de los programas desarrollados para este propósito), conforme a las especificaciones del Diccionario de Datos Topográficos.
+5. Se revisa la información actualizada de forma interactiva, para asegurar que la información contenida en los insumos fuente, se haya digitalizado de forma correcta, y que se hayan aplicado las Normas y Especificaciones durante el proceso.
+6. Después de la revisión y corrección de posibles errores, el archivo vectorial queda validado y se envía a la Subdirección de Base de Datos.
+
+
+     6.3.3 Fuente:
+
+          6.3.3.1 Descripción: 
+
+
+SECCIÓN 7. Entidades y atributos:
+
+7.1 Descripción general de entidades y atributos: Las entidades son de tipo punto y vector donde cada una de ellas representa un elemento o fenómeno geográfico.
+A continuación se listan las entidades.
+TIPO DE ENTIDAD						 PUNTOS    LÍNEAS     ÁREAS     TOTAL
+Acueducto                                       0           9           0           9
+Banco de material                               1           0           0           1
+Calle                                           0         564           0         564
+Camino                                          0         103           0         103
+Carretera                                       0          13           0          13
+Corriente de agua                               0         119           0         119
+Corriente que desaparece                       26           0           0          26
+Cuerpo de agua                                  0           0           3           3
+Curva de nivel                                  0         265           0         265
+Edificación                                   354           0          14         368
+Instalación de comunicación                     2           0           0           2
+Instalación diversa                             0           0           3           3
+Instalación portuaria                           0          22           0          22
+Línea de comunicación                           0           2           0           2
+Línea de transmisión                            0           3           0           3
+Localidad                                      20           0           4          24
+Pista de aviación                               0           1           1           2
+Referencia geográfica                          36           0           0          36
+Roca                                            2           0           0           2
+Ruta de embarcación                             0           1           0           1
+Subestación eléctrica                           0           0           1           1
+Tanque de agua                                  5           0           0           5
+Terreno sujeto a inundación                     0           0           2           2
+Zona arenosa                                    0           0           1           1
+------      ------      ------      ------
+CANTIDAD:                                     446        1102          29        1577
+
+7.2 Cita del detalle de entidades y atributos: En la siguiente dirección del Sitio del INEGI se encuentra el Diccionario de Datos donde se describe a detalle la información contenida en el conjunto de datos: http://www.inegi.org.mx/geo/contenidos/topografia/default.aspx 
+
+SECCIÓN 8. Distribución:
+
+8.1 Restricciones de acceso: 8. Acceso con costo al público a través de los centros de venta del Instituto Nacional de Estadística y Geografía - INEGI.
+
+8.2 Restricciones de uso: 8. Otras Restricciones.
+
+8.3 Responsabilidad de distribución: El Instituto Nacional de Estadística y Geografía - INEGI no se hace responsable por el uso que usted le dé a los datos.
+
+8.4 Formato de distribución:
+
+     8.4.1 Nombre del formato: ShapeFile (.shp)
+
+     8.4.2 Versión del formato: No Aplica
+
+
+SECCIÓN 9. Información del contacto para los metadatos:
+
+9.1 Nombre del estándar de metadatos: ISO 19115 Información Geográfica - Metadatos (Norma Técnica para Metadatos).
+
+9.2 Versión de la norma de metadatos: 2003 (1.0).
+
+9.3 Idioma de los Metadatos: ES - Español.
+
+9.4 Punto de contacto para los Metadatos: 
+
+     9.4.1 Nombre de la persona de contacto: Lic. Rafael Arrioja Urzúa.
+
+     9.4.2 Nombre de la organización: Instituto Nacional de Estadística y Geografía - INEGI.
+
+     9.4.3 Puesto del contacto: Jefe del Departamento de Administración de Metadatos.
+
+     9.4.4 Teléfono: (449)9105300 Ext. 1750 y 5631.
+
+     9.4.5 Fax: (449)4424145.
+
+     9.4.6 Dirección: Av. Héroe de Nacozari Sur Núm. 2301. Fracc. Jardines del Parque.
+
+     9.4.7 Ciudad: Aguascalientes.
+
+     9.4.8 Área administrativa: Aguascalientes.
+
+     9.4.9 Código postal: 20276
+
+     9.4.10 País: México
+
+     9.4.11 Dirección de correo electrónico del contacto: rafael.arrioja@inegi.org.mx
+
+     9.4.12 Rol:   7. Punto de contacto: Parte que puede ser contactada para informarse sobre el recurso o adquisición del mismo.
+
+9.5 Fecha de los metadatos: 2014-03-21
+
+9.6 Conjunto de caracteres:   6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.
+

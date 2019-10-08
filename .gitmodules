@@ -1,0 +1,3 @@
+[submodule "QGIS-Properties"]
+	path = QGIS-Properties
+	url = https://github.com/ClemRz/QGIS-Properties.git
